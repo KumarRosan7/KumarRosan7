@@ -7,9 +7,9 @@
 
 - 🎓 MCA Student at Centurion University, Bhubaneswar
 - 💻 Passionate about Java, Spring Boot, Web Development & DSA
-- 🌱 Currently learning **Advanced Java, Spring Framework, Spring Boot, Hibernate, Angular**
+- 🌱 Currently learning **Advanced Java, Spring Framework, Spring Boot, Angular**
 - 🔥 Solving Data Structures & Algorithms problems on LeetCode
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **dasrosan2003@gmail.com**
 - ⚡ Fun Fact: I enjoy building projects and learning new technologies every day.
 
 ---
