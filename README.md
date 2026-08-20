@@ -154,7 +154,6 @@
 # 📚 Currently Learning
 
 - ☕ Advanced Java
-- 🌱 Spring Framework
 - 🚀 Spring Boot
 - 🌐 Angular
 - ☁️ AWS Basics
